@@ -1,0 +1,25 @@
+{
+  "name": "mula",
+  "version": "1.0.0",
+  "description": "Client for mula",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/mula.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/mula/issues"
+  },
+  "homepage": "https://github.com/stierma1/mula#readme",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "express": "^4.13.3",
+    "request": "^2.60.0",
+    "rx": "^3.0.0"
+  }
+}
